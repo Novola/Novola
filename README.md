@@ -1,12 +1,13 @@
-# hello👋 my name is novola ;3 i like to hack in blockgame and develop clients ;3
-### stuff i've made
+# hello👋 My name is Novola I like to hack in blockgame and develop clients!!!
+### Currently Working On
+- OnPoint.IE/zori2 [java]
+### Past Projects
 - NoSlowBypass [java]
 - Zori [java]
 - Esdeath [java]
 - Catalyst (some modules) [java]
-- list short because i've only been developing for a short period of time :^)
-### Contact me
-- Discord: novola#0666
+### Contact Me
+- Discord: novola#8097
 - Minecraft: Novola
 - Twitter: @Novola4
 - YouTube: Novola

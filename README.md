@@ -1,4 +1,4 @@
-# hello👋 My name is Novola I like to hack in blockgame and develop clients!!!
+# hi my name is novola~
 ### Currently Working On
 - OnPoint.IE/zori2 [java]
 ### Past Projects

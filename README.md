@@ -1,13 +1,14 @@
 # hi my name is novola~
 ### Currently Working On
-- OnPoint.IE/zori2 [java]
+- nothing rn [nothing]
 ### Past Projects
+- OnPoint.IE [java]
 - NoSlowBypass [java]
 - Zori [java]
 - Esdeath [java]
 - Catalyst (some modules) [java]
 ### Contact Me
-- Discord: novola#8097
+- Discord: dont
 - Minecraft: Novola
 - Twitter: @Novola4
-- YouTube: Novola
+- YouTube: TRENTAL

@@ -1,6 +1,6 @@
-# hi my name is novola~
+# wagwan
 ### Currently Working On
-- nothing rn [nothing]
+- Zori+ (zori rewrite) [java]
 ### Past Projects
 - OnPoint.IE [java]
 - NoSlowBypass [java]

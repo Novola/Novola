@@ -1,6 +1,7 @@
-# wagwan
+# wagwan i dont play minecraft
 ### Currently Working On
 - Zori+ (zori rewrite) [java]
+- Zori2 [java]
 ### Past Projects
 - OnPoint.IE [java]
 - NoSlowBypass [java]

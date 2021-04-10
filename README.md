@@ -1,4 +1,6 @@
 # wagwan i dont play minecraft
+### FOLLOW MY NEW GITHUB
+https://github.com/trentalhvh
 ### Currently Working On
 - Zori+ (zori rewrite) [java]
 - Zori2 [java]

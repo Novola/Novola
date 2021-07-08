@@ -2,8 +2,7 @@
 ### FOLLOW MY NEW GITHUB
 https://github.com/trentalhvh
 ### Currently Working On
-- Zori+ (zori rewrite) [java]
-- Zori2 [java]
+- warped.solutions [java]
 ### Past Projects
 - OnPoint.IE [java]
 - NoSlowBypass [java]

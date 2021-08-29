@@ -1,6 +1,6 @@
-## Hello! 👋
+## u found my page or smth
 
-<div align="center"> Welcome to my crib! </div>
+<div align="center"> SHALOMMM! </div>
 
 ---
 ### about_me
@@ -18,9 +18,3 @@
 <a href="https://github.com/BrownZombie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Novola&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Novola's GitHub Stats" />
 </a>
----
-### contact
-
-dont
-
-}
